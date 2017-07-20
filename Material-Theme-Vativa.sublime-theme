@@ -678,7 +678,7 @@
       "content_margin": [11, 7],
       "layer0.tint": [0,0,0],
       "layer0.opacity": 0,
-      "layer1.texture": "Material Theme/assets/darker/folder.png",
+      "layer1.texture": "Material Theme/assets/palenight/folder.png",
       "layer1.opacity": 1,
       "layer2.texture": "Material Theme/assets/commons/folder--hover.png",
       "layer2.opacity": 0.0,
@@ -800,7 +800,7 @@
   
     {
       "class": "icon_folder_dup",
-      "layer0.texture": "Material Theme/assets/darker/folder_dup.png",
+      "layer0.texture": "Material Theme/assets/palenight/folder_dup.png",
       "layer0.opacity": 1.0,
       "content_margin": [11, 7]
     },
@@ -822,7 +822,7 @@
   
     {
       "class": "disclosure_button_control",
-      "layer0.texture": "Material Theme/assets/darker/folder.png",
+      "layer0.texture": "Material Theme/assets/palenight/folder.png",
       "layer0.opacity": 1.0,
       "layer0.inner_margin": 0,
       "layer1.texture": "Material Theme/assets/commons/folder--hover.png",
