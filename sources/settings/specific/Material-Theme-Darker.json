@@ -10,8 +10,8 @@
     },
     "background": {
       "primary": {
-        "hex": "#000000",
-        "rgb": "0,0,0"
+        "hex": "#212121",
+        "rgb": "33, 33, 33"
       },
       "scrollbar": {
         "hex": "#ffffff",
@@ -34,8 +34,8 @@
     }
   },
   "scheme": {
-    "background": "#000000",
-    "comments": "#666666",
+    "background": "#212121",
+    "comments": "#4A4A4A",
     "caret": "#FFCC00",
     "findHighlight": "#F8E71C",
     "foreground": "#eeffffff",
@@ -52,7 +52,7 @@
     "string": "#F9355A",
     "constantEscape": "#FFC400",
     "base": {
-      "white": "#CCCCCC",
+      "white": "#ffffff",
       "black": "#000000",
       "red": "#FF5370",
       "orange": "#F78C6C",
