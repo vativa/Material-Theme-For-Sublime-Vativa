@@ -32,13 +32,13 @@
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
-				<string>#23263799</string>
+				<string>#232637CA</string>
 				<key>popupCss</key>
 				<string><![CDATA[ html { background-color: #000000; color: #eeffffff; padding: 16px; } a { color: #B2CCD6; line-height: 16px; } .error, .deleted { color: #FF5370; } .success, .inserted { color: #C3E88D; } .warning, .modified { color: #FFCB6B; } .type { color: #89DDFF; font-style: italic; } .param { color: #F78C6C; } .current { text-decoration: underline; } ]]></string>
 				<key>selection</key>
-				<string>#232637A1</string>
+				<string>#232637FF</string>
 				<key>selectionBorder</key>
-				<string>#61616150</string>
+				<string>#66666670</string>
 				<key>shadow</key>
 				<string>#00000010</string>
 				<key>stackGuide</key>
